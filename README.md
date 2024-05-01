@@ -22,3 +22,7 @@ You will need FMM: Fluffy's Mod Manager
 5th Invasion: https://discord.gg/YRCRsqDb
 Moveset Modding: https://discord.gg/Crtzresv
 
+
+# Version 1.06
+1. Adden damage & guard animationss  to Dudley.
+2. Ryu's reverse special bug after VT2 Shoryuken is fixed.
