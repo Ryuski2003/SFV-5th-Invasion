@@ -23,6 +23,6 @@ You will need FMM: Fluffy's Mod Manager
 Moveset Modding: https://discord.gg/Crtzresv
 
 
-# Version 1.06
+# Version 1.26
 1. Adden damage & guard animationss  to Dudley.
 2. Ryu's reverse special bug after VT2 Shoryuken is fixed.
