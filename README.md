@@ -19,7 +19,7 @@ You will need FMM: Fluffy's Mod Manager
 8. play
 
 ## Discord Server
-5th Invasion: https://discord.gg/YRCRsqDb
+5th Invasion: https://discord.gg/6yuvSFt386
 Moveset Modding: https://discord.gg/Crtzresv
 
 
